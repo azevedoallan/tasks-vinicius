@@ -15,4 +15,4 @@ A pessoa pode ter mais que um endereço.
 5: Criar uma interface para LISTAR, INSERIR e REMOVER os registros via requisições javascript.
 
 
-Prazo máximo: 17/12/2023 17:00
+Prazo máximo: 17/02/2023 17:00
